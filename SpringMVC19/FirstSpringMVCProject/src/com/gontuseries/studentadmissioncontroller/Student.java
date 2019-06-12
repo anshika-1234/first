@@ -18,6 +18,7 @@ public class Student {
 	private Date studentDOB;
 
 	private ArrayList<String> studentSkills;
+	
 
 	private Address studentAddress;
 
